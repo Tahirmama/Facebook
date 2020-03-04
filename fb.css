@@ -1,0 +1,58 @@
+/* HEADER */
+
+.headmain {
+    background-color: rgb(76, 76, 145);
+    padding: 0px;
+    margin: 0px
+}
+
+.head {
+    margin-left: 150px;
+    font-size: 50px;
+    margin-top: 100cm;
+    color: white;
+}
+
+.head1 {
+    margin-left: 493px;
+    font-size: 14px;
+    color: white;
+}
+
+.head2 {
+    color: white;
+    margin-left: 99px;
+    font-size: 14px;
+}
+
+.head3 {
+    margin-left: 850px;
+}
+
+.head4 {
+    margin-left: 20px;
+}
+
+.head5 {
+    margin-left: 1049px;
+    color: rgb(135, 135, 252);
+    font-size: 14px;
+}
+
+:hover.head5 {
+    color: black;
+}
+
+:active.head5 {
+    color: rgb(252, 252, 252);
+}
+
+.headbutton {
+    color: white;
+    background-color: rgb(75, 75, 212);
+    padding: 4px;
+    font-size: 12px;
+    border: rgb(75, 75, 212);
+}
+
+x
